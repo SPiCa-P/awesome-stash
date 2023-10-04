@@ -22,5 +22,5 @@ http:
     # upos-sz-mirrorali.bilivideo.com -> 阿里云
     # cn-gddg-ct-01-01.bilivideo.com -> 广东东莞电信
     # cn-lnsy-cu-01-01.bilivideo.com -> 辽宁沈阳联通
-    - https?:\/\/upos-hz-mirrorakam.akamaized.net\/upgcxcode\/ http://upos-sz-mirrorali.bilivideo.com transparent
-    - https?:\/\/(.*)\.bilivideo\.(cn|com)\/upgcxcode\/ http://upos-sz-mirrorali.bilivideo.com transparent
+    - https?:\/\/upos-hz-mirrorakam.akamaized.net\/upgcxcode\/ http://upos-sz-mirrorhw.bilivideo.com transparent
+    - https?:\/\/(.*)\.bilivideo\.(cn|com)\/upgcxcode\/ http://upos-sz-mirrorhw.bilivideo.com transparent
